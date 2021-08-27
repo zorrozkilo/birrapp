@@ -25,6 +25,11 @@
     background: #f8f8f8;
 }
 
+.tarjeta {
+    padding: 30px 0;
+    border-bottom: 1px solid #dad9d9;
+}
+
 .img-bar {
     width: 45%;
     max-height: 150px;
