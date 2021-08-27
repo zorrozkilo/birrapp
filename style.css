@@ -77,8 +77,8 @@
 }
 
 .logos img {
-    max-width: 35px;
-    max-height: 35px;
-    border-radius: 50px;
+    max-width: 40px;
+    max-height: 40px;
     margin-right: 10px;
+    mix-blend-mode: multiply;
 }
