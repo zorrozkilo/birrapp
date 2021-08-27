@@ -1,0 +1,76 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.padding {
+    padding: 50px 20px;
+}
+
+.listado {
+    background: #f8f8f8;
+}
+
+.img-bar {
+    width: 45%;
+    max-height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+
+.titulo-bar {
+    font-weight: 700;
+}
+
+.direccion {
+    font-weight: 400;
+}
+
+.precio {
+    background: white;
+    padding: 5px;
+    padding-right: 8px;
+    border-radius: 8px;
+    margin: 10px 10px 10px 0;
+    align-items: center;
+}
+
+.precio img {
+    width: 20px;
+    height: auto;
+    margin-right: 5px;
+}
+
+.precio p {
+    font-size: 17px;
+}
+
+.decimales {
+    font-size: 15px;
+}
+
+.euros {
+    font-size: 12px;
+}
+
+.logos img {
+    max-width: 35px;
+    max-height: 35px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
