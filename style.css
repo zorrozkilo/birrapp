@@ -35,10 +35,12 @@
 
 .titulo-bar {
     font-weight: 700;
+    font-size: 18px;
 }
 
 .direccion {
     font-weight: 400;
+    font-size: 12px;
 }
 
 .precio {
@@ -58,6 +60,7 @@
 
 .precio p {
     font-size: 17px;
+    font-weight: 600;
 }
 
 .decimales {
